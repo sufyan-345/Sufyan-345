@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Sufyan Habib!
 
-<!--
-**sufyan-345/Sufyan-345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning Engineer** with expertise in **Python and AI-driven** solutions. Passionate about transforming data into intelligent systems, I specialize in building and deploying **machine learning models** for diverse applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 **BS Artificial Intelligence** (CGPA: 3.82/4)
+- 💼 **Machine Learning Engineer** @ Codelab Tech School and IT Solution
+- 🤖 **Deep Learning & NLP Enthusiast**
+- 🛠️ **Tech Stack:** Python, TensorFlow, Scikit-learn, OpenCV, Tkinter
+### 📂 Notable Projects:
+- 🏥 **Multiple Human Disease Prediction System** (AI-powered medical diagnosis)
+- 🎓 **Student Face Recognition Attendance System** (Automated attendance tracking)
+### 📫 Let's Connect
+- 📧 **Email:** sufyanhabib345@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always eager to collaborate on AI-driven innovations! 🚀
