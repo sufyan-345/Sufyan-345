@@ -8,8 +8,8 @@ I'm a **Machine Learning Engineer** with expertise in **Python and AI-driven** s
 - 🤖 **Deep Learning & NLP Enthusiast**
 - 🛠️ **Tech Stack:** Python, TensorFlow, Scikit-learn, OpenCV, Tkinter
 ### 📂 Notable Projects:
-- 🏥 **Multiple Human Disease Prediction System** (AI-powered medical diagnosis)
 - 🎓 **Student Face Recognition Attendance System** (Automated attendance tracking)
+- 🏥 **Multiple Human Disease Prediction System** (AI-powered medical diagnosis)
 ### 📫 Let's Connect
 - 📧 **Email:** sufyanhabib345@gmail.com
 
